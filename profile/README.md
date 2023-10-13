@@ -2,12 +2,8 @@
 
 ## Repositories
 
-<details>
-  <summary>
-    ### [MsDebug](https://github.com/MsEngineeringDotnet/MsDebug)
-  </summary>
-</details>
-
+[MsDebug](https://github.com/MsEngineeringDotnet/MsDebug)
+<details><summary>Show more</summary></details>
 
 [MsOutput](https://github.com/MsEngineeringDotnet/MsOutput)
 
