@@ -3,9 +3,8 @@
 ## Repositories
 
 <details>
-### [MsDebug](https://github.com/MsEngineeringDotnet/MsDebug)
   <summary>
-    Summary
+    ### [MsDebug](https://github.com/MsEngineeringDotnet/MsDebug)
   </summary>
 </details>
 
