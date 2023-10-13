@@ -1,9 +1,10 @@
-# Content
+# About
+
+## Contributor
 
 ## Repositories
 
 [MsDebug](https://github.com/MsEngineeringDotnet/MsDebug)
-<details><summary>Show more</summary></details>
 
 [MsOutput](https://github.com/MsEngineeringDotnet/MsOutput)
 
