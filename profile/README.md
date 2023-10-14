@@ -19,3 +19,5 @@
 [MsBinanceTradingBot](https://github.com/MsEngineeringDotnet/MsBinanceTradingBot)
 
 [MsBinanceTradingVisualizer](https://github.com/MsEngineeringDotnet/MsBinanceTradingVisualizer)
+
+[MsBinanceTradingBotForm](https://github.com/MsEngineeringDotnet/MsBinanceTradingBotForm)
