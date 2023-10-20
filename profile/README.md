@@ -10,7 +10,11 @@
 
 [MsFiles](https://github.com/MsEngineeringDotnet/MsFiles)
 
+[MsConfig](https://github.com/MsEngineeringDotnet/MsConfiguration)
+
 [MsMath](https://github.com/MsEngineeringDotnet/MsMath)
+
+[MsConversions](https://github.com/MsEngineeringDotnet/MsConversions)
 
 [MsTradingSignals](https://github.com/MsEngineeringDotnet/MsTradingSignals)
 
