@@ -18,7 +18,7 @@
 
 [MsTradingSignals](https://github.com/MsEngineeringDotnet/MsTradingSignals)
 
-[MsBinance](https://github.com/MsEngineeringDotnet/MsBinance)
+[MsBinance](https://github.com/MsEngineeringDotnet/MsBinance) Documentation: [MsBinance Doc](https://github.com/MsEngineeringDotnet/MsBinanceDocumentation) 
 
 [MsBinanceTradingBot](https://github.com/MsEngineeringDotnet/MsBinanceTradingBot)
 
