@@ -19,7 +19,7 @@
 ### ClassLib [MsTradingSignals](https://github.com/MsEngineeringDotnet/MsTradingSignals)
 
 ### ClassLib [MsBinance](https://github.com/MsEngineeringDotnet/MsBinance) 
-Documentation: [MsBinance Doc](https://github.com/MsEngineeringDotnet/MsBinanceDocumentation) 
+Documentation: [MsBinance Doc](https://msengineeringdotnet.github.io/MsBinanceDocumentation/index.html) 
 
 ### ClassLib [MsBinanceTradingBot](https://github.com/MsEngineeringDotnet/MsBinanceTradingBot)
 
