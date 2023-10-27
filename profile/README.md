@@ -1,6 +1,8 @@
 # About
 
-## Contributor
+## Contributors
+
+[Main Contributor MSchneider](https://github.com/MSchneiderSb)
 
 ## Coding conventions
 
