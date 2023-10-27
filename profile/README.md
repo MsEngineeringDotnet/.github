@@ -2,7 +2,16 @@
 
 ## Contributor
 
-## Documentary conventions
+## Coding conventions
+
+
+
+## Documentation conventions
+
+### Project documentation file
+
+- Insert an empty file "Documentation.cs" to the sorce folder
+- Configure documentations main page there
 
 ### Doygen documentation
 
