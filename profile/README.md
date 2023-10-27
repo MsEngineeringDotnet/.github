@@ -20,7 +20,7 @@ Code repositories are kept private due to the circumstance that most projects ar
 
 ### Project documentation file
 
-- Insert an empty file "Documentation.cs" to the sorce folder
+- Insert an empty file "Documentation.cs" to the source folder
 - Configure documentations main page there
 
 ### Doygen documentation
