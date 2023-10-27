@@ -1,8 +1,16 @@
+!Under construction!
+
 # About
+
+This organizations purpose is to manage my private .NET projects. 
+
+Code repositories are kept private due to the circumstance that most projects are still in continuous development stage. Anyway the project documentations are public. If there is any interest in some code snippets, some development or maybe a cooperative project, don't hesitate to contact me.
 
 ## Contributors
 
-[Main Contributor MSchneider](https://github.com/MSchneiderSb)
+### Main contributor
+
+[MSchneider](https://github.com/MSchneiderSb)
 
 ## Coding conventions
 
